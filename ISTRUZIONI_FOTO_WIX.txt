@@ -1,0 +1,70 @@
+STUDIO TECNICO RUSSU - FOTOGRAFIE WIX LOCALI
+=====================================================
+
+I riferimenti Wix esterni in index.html sono stati sostituiti
+con percorsi relativi sotto assets/img/.
+
+IMPORTANTE: in questo ZIP NON sono presenti le 10 fotografie Wix,
+perche i file scaricati sul tuo computer non sono stati caricati in chat.
+Per far apparire le fotografie sul sito devi copiarli in questa cartella:
+  assets/img/
+
+Devi mantenere ESATTAMENTE questi nomi di file:
+
+01. Nuvola di punti
+    819e5c_949b88b9196f4616ae564d86fb7f2325~mv2.avif
+    percorso: assets/img/819e5c_949b88b9196f4616ae564d86fb7f2325~mv2.avif
+
+02. Mesh poligonale
+    819e5c_5fd023f5d55e479e82dd891907ff87f5~mv2.avif
+    percorso: assets/img/819e5c_5fd023f5d55e479e82dd891907ff87f5~mv2.avif
+
+03. Ortomosaico
+    819e5c_c65a6d068fb54801b9ee45c433af55a3~mv2.avif
+    percorso: assets/img/819e5c_c65a6d068fb54801b9ee45c433af55a3~mv2.avif
+
+04. Modello digitale terreno DTM
+    819e5c_10281664e0cc44f6bc1b8c9031f8cb6a~mv2.avif
+    percorso: assets/img/819e5c_10281664e0cc44f6bc1b8c9031f8cb6a~mv2.avif
+
+05. Ispezione aerea
+    819e5c_c9dd1bc125844f019e5164ff090def46~mv2.avif
+    percorso: assets/img/819e5c_c9dd1bc125844f019e5164ff090def46~mv2.avif
+
+06. Ispezione aerea 2
+    819e5c_461c8008ed7040829437a6da8c21a4d0~mv2.avif
+    percorso: assets/img/819e5c_461c8008ed7040829437a6da8c21a4d0~mv2.avif
+
+07. Fotografia architettonica
+    819e5c_720cb75d6a9d43729f62e9b8d879886c~mv2.avif
+    percorso: assets/img/819e5c_720cb75d6a9d43729f62e9b8d879886c~mv2.avif
+
+08. Riprese pubblicitarie
+    819e5c_0e3f7d2bb71a4624a6bf4f3894319f86~mv2_d_1956_2088_s_2.avif
+    percorso: assets/img/819e5c_0e3f7d2bb71a4624a6bf4f3894319f86~mv2_d_1956_2088_s_2.avif
+
+09. Eventi sportivi
+    819e5c_fc2803f2b6c94e589773ecdb0536194e~mv2.avif
+    percorso: assets/img/819e5c_fc2803f2b6c94e589773ecdb0536194e~mv2.avif
+
+10. Paesaggio e natura
+    819e5c_4a9272e2122c432387b16be672171edf~mv2_d_2898_3000_s_4_2.avif
+    percorso: assets/img/819e5c_4a9272e2122c432387b16be672171edf~mv2_d_2898_3000_s_4_2.avif
+
+NOTA SUL FORMATO:
+Le fotografie locali sono ora referenziate come .avif.
+Copia in assets/img/ gli originali scaricati in formato AVIF, mantenendo esattamente
+il nome (compresa l'estensione .avif) riportato sopra.
+Se un file scaricato ha un nome diverso, rinominalo per farlo corrispondere
+al percorso richiesto dal sito. NON convertire né rinominare un JPG in AVIF:
+l'estensione deve corrispondere al formato reale del file.
+
+COME VERIFICARE:
+1) Copia tutte le 10 immagini in assets/img/
+2) Apri il sito tramite hosting locale / Firebase Hosting.
+3) Verifica le sezioni Topografia e Applicazioni drone.
+4) Verifica nel pannello Network che non siano effettuate richieste
+   a static.wixstatic.com e che tutti i file locali rispondano con 200.
+
+Le 4 fotografie Unsplash sono state lasciate intatte: non erano Wix.
+Le immagini devono essere utilizzate soltanto con autorizzazione/licenza.
